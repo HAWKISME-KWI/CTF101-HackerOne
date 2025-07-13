@@ -1,7 +1,9 @@
 Hello to my series which create to defeat the CTF101 from HackerOne! And in this level which call "A little something to get you started" is the trivial difficulty and only have 1 flag.
 When you started this level, you can see the "Welcome to level 0. Enjoy your stay" message.
 Then i check the source code and see the CSS reveal with the background-image element.
+
 ```<style> body { background-image: url(“background.png”); } </style>```
+
 ![Image1](https://ibb.co/Ps04x4pt)
 
 Then i try to put it into the end of the url 
