@@ -4,14 +4,14 @@ Then i check the source code and see the CSS reveal with the background-image el
 
 ```<style> body { background-image: url(“background.png”); } </style>```
 
-![Image1](https://ibb.co/Ps04x4pt)
+![Image1](https://i.ibb.co/nqtfrf2R/Screenshot-2025-07-13-104737.png)
 
 Then i try to put it into the end of the url 
 
-![Image2](https://ibb.co/7dtFDQch)
+![Image2](https://i.ibb.co/JwjPTqLZ/Screenshot-2025-07-13-105728.png)
 
 And the flag is right in front of my eyes.
 
-![Image3](https://ibb.co/7Nb3rzRC)
+![Image3](https://i.ibb.co/wrYnpLwg/Screenshot-2025-07-13-105823.png)
 
 Thats end this level.
